@@ -15,14 +15,8 @@ We've included everything you need to create engaging posts about your work, and
 
 **Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
-{::options parse_block_html="false" /}
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Finally, v4.0 is here! 🎉 Instant Analytics view, R Markdown integration, Bayesian A/B Testing &amp;more! <a href="https://t.co/lt1l3FXgHz">https://t.co/lt1l3FXgHz</a></p>&mdash; exploratory (@ExploratoryData) <a href="https://twitter.com/ExploratoryData/status/895164490936979456">August 9, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<div class="center">
-
-https://publish.twitter.com/oembed?
-  url=https://twitter.com/Interior/status/463440424141459456
-
-</div>
 You can create lists:
 
 * Simple bulleted lists
