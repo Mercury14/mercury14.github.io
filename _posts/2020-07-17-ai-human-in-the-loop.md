@@ -32,6 +32,7 @@ And:
 You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
 
 > “The chances these things are going to replace us are very low, sort of unfortunately. Collaboration is the only way forward.”
+
 PHILIPP TSCHANDL, ASSISTANT PROFESSOR OF DERMATOLOGY, MEDICAL UNIVERSITY OF VIENNA
 
-The full article can be read on wired at [wired](https://www.wired.com/story/algorithm-doesnt-replace-doctors-makes-them-better/).
+The full article can be read on at [wired](https://www.wired.com/story/algorithm-doesnt-replace-doctors-makes-them-better/).
