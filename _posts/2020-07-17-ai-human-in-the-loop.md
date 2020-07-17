@@ -4,7 +4,7 @@ date: 2020-07-17 00:00:00
 description: Just some initial thoughts.
 featured_image: '/images/demo/demo-square.jpg'
 ---
-
+{::options parse_block_html="true" /}
 ![](/images/demo/demo-landscape.jpg)
 
 ## Demo content
