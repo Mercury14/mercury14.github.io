@@ -19,8 +19,9 @@ We've included everything you need to create engaging posts about your work, and
 
 <div class="center">
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A useful model to understand how <a href="https://twitter.com/hashtag/operations?src=hash&amp;ref_src=twsrc%5Etfw">#operations</a> leaders can respond to the crisis. <a href="https://t.co/rarNiq93lX">https://t.co/rarNiq93lX</a></p>&mdash; Simon Bartlett (@simon_bartlett_) <a href="https://twitter.com/simon_bartlett_/status/1254699862895087617?ref_src=twsrc%5Etfw">April 27, 2020</a></blockquote>
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Thanks to <a href="https://twitter.com/gitlab">@gitlab</a> for joining <a href="https://twitter.com/RailsGirlsCluj">@RailsGirlsCluj</a>! <a href="https://t.co/NOoiqDWKVY">pic.twitter.com/NOoiqDWKVY</a></p>&mdash; RailsGirlsCluj (@RailsGirlsCluj) <a href="https://twitter.com/RailsGirlsCluj/status/784847271645028352">October 8, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 </div>
 You can create lists:
 
