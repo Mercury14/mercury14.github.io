@@ -4,7 +4,7 @@ date: 2020-07-17 00:00:00
 description: Just some initial thoughts.
 featured_image: '/images/demo/demo-square.jpg'
 ---
-{::options parse_block_html="true" /}
+
 ![](/images/demo/demo-landscape.jpg)
 
 ## Demo content
@@ -15,8 +15,12 @@ We've included everything you need to create engaging posts about your work, and
 
 **Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A useful model to understand how <a href="https://twitter.com/hashtag/operations?src=hash&amp;ref_src=twsrc%5Etfw">#operations</a> leaders can respond to the crisis. <a href="https://t.co/rarNiq93lX">https://t.co/rarNiq93lX</a></p>&mdash; Simon Bartlett (@simon_bartlett_) <a href="https://twitter.com/simon_bartlett_/status/1254699862895087617?ref_src=twsrc%5Etfw">April 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{::options parse_block_html="false" /}
 
+<div class="center">
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A useful model to understand how <a href="https://twitter.com/hashtag/operations?src=hash&amp;ref_src=twsrc%5Etfw">#operations</a> leaders can respond to the crisis. <a href="https://t.co/rarNiq93lX">https://t.co/rarNiq93lX</a></p>&mdash; Simon Bartlett (@simon_bartlett_) <a href="https://twitter.com/simon_bartlett_/status/1254699862895087617?ref_src=twsrc%5Etfw">April 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 You can create lists:
 
 * Simple bulleted lists
@@ -35,4 +39,4 @@ You can also add blockquotes, which are shown at a larger width to help break up
 
 PHILIPP TSCHANDL, ASSISTANT PROFESSOR OF DERMATOLOGY, MEDICAL UNIVERSITY OF VIENNA
 
-The full article can be read on at [wired](https://www.wired.com/story/algorithm-doesnt-replace-doctors-makes-them-better/).
+The full article can be read at [Wired](https://www.wired.com/story/algorithm-doesnt-replace-doctors-makes-them-better/).
