@@ -3,6 +3,8 @@ site: Simon Bartlett Personal Blog
 url: https://simonbartlett.uk
 baseurl:
 
+use_math: true
+
 collections:
   pages:
     output: true
@@ -52,6 +54,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
+  - jekyll-twitter-plugin
 
 paginate: 6
 paginate_path: "/blog/page:num/"
