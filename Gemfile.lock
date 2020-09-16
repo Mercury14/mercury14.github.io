@@ -65,6 +65,7 @@ GEM
     sawyer (0.8.2)
       addressable (>= 2.3.5)
       faraday (> 0.8, < 2.0)
+    
 
 PLATFORMS
   x64-mingw32
