@@ -15,6 +15,7 @@ menu_settings:
     - title: 'About'
       url: '/about'
     - title: 'Contact'
+      url: '/contact'
 
 footer_settings:
   footer_tagline: Personal thoughts and reflections.

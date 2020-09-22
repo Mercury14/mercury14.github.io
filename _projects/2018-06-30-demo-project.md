@@ -1,9 +1,9 @@
 ---
-title: 'Demo Project'
-subtitle: 'This is a demo'
+title: 'Books'
+subtitle: 'Books currently reading'
 date: 2018-06-30 00:00:00
-description: This page is a demo that shows everything you can do inside portfolio and blog posts.
-featured_image: '/images/demo/demo-square.jpg'
+description: A review of some of the books that I\'m reading (non-fiction and fiction).
+featured_image: '/images/home/books.jpg'
 ---
 
 ![](/images/demo/demo-landscape.jpg)
