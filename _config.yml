@@ -15,6 +15,9 @@ collections:
   projects:
     output: true
     permalink: /project/:slug
+  books:
+    output: true
+    permalink: /books/:slug
 
 defaults:
   -
@@ -40,6 +43,12 @@ defaults:
       type: "projects"
     values:
       layout: "project"
+  -
+    scope:
+      path: ""
+      type: "books"
+    values:
+      layout: "books"
 
 markdown: kramdown
 

@@ -3,10 +3,10 @@ title: Projects
 subtitle: Some of the things I've been working on
 date: 2018-06-30 00:00:00
 description: A review of my current projects.
-featured_image: /images/home/books.jpg
+featured_image: /images/home/simon.jpg
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/home/simon.jpg)
 
 ## Demo content
 
