@@ -3,6 +3,9 @@ site: Simon Bartlett Personal Blog
 url: https://simonbartlett.uk
 baseurl:
 
+# add disqus shortname
+disqus: https-mercury14-github-io
+
 use_math: true
 
 collections:
