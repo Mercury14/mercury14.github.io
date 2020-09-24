@@ -6,8 +6,6 @@ baseurl:
 # add disqus shortname
 disqus: https-mercury14-github-io
 
-google_analytics: UA-171533627-1
-
 use_math: true
 
 collections:
