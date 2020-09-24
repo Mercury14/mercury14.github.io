@@ -3,6 +3,7 @@ title: 'Some Thoughts'
 date: 2020-07-17 00:00:00
 description: Just some initial thoughts.
 featured_image: '/images/demo/demo-square.jpg'
+comments: true
 ---
 
 ![](/images/demo/demo-landscape.jpg)
