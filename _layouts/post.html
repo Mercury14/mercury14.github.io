@@ -1,5 +1,6 @@
 ---
 layout: default
+comments: true
 ---
 
 <section class="hero hero--single">
@@ -29,4 +30,9 @@ layout: default
 
 	</div>
 
+
 </section>
+
+{% if site.disqus.shortname %}
+  {% include disqus_comments.html %}
+{% endif %}
