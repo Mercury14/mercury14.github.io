@@ -1,8 +1,8 @@
-#site: Simon Bartlett Personal Blog
+site: https://mercury14.github.io
 
 #url: https://simonbartlett.uk
 url: https://mercury14.github.io
-baseurl: /
+baseurl: 
 
 # add disqus shortname
 disqus: https-mercury14-github-io
