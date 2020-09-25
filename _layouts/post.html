@@ -1,6 +1,6 @@
 ---
 layout: default
-comments: true
+disqus: true
 ---
 
 <section class="hero hero--single">
@@ -33,6 +33,6 @@ comments: true
 
 </section>
 
-{% if page.comments %}
+{% if page.disqus %}
   {% include disqus.html %}
 {% endif %}
