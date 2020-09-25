@@ -8,4 +8,6 @@ group :jekyll_plugins do
   gem 'jekyll-twitter-plugin'
   gem 'jekyll-gist'
   gem 'jekyll-admin'
+
+  gem 'github-pages'
 end
