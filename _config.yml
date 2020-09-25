@@ -6,6 +6,7 @@ baseurl: /
 
 # add disqus shortname
 disqus: https-mercury14-github-io
+short_url: 'github.io/'
 
 use_math: true
 
