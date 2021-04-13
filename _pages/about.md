@@ -6,10 +6,8 @@ featured_image: /images/home/simon.jpg
 ---
 ## Some of the stuff I'm in to
 
-#### I believe that its important to continually invest in your knowledge portfolio. As a practicing management consultant, I personally break these down into a number of key areas:
+I believe that its important to continually invest in my knowledge portfolio. I break these down into a number of key areas:
 
-
-## Technology
 
 ### Computer languages
 * Python
@@ -21,13 +19,11 @@ featured_image: /images/home/simon.jpg
 * Deep Learning
 * Mathematics foundations (Linear Algebra and Calculus specifically)
 
-## General Learning 
-
 ### Reading the Classics
 * Working my way through the Great Books (Adler and Van Doren)
 
-## Personal OS
-### Productivity Tools
+
+### My Personal Operating System
 * Tasks in Planner
 * Notes in OneNote
 * XMind for brainstorming
@@ -36,3 +32,4 @@ featured_image: /images/home/simon.jpg
 ### Habits
 * Daily / Weekly habit formation and stacking
 * Mindfulness and focus
+* Exercise
