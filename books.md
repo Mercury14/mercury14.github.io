@@ -12,7 +12,7 @@ featured_image: /images/home/books.jpg
 
 	<div class="wrap">
 
-		<h1>Reading List</h1>
+		<h1>My books</h1>
 		<p>What I am reading.</p>
 	</div>
 
