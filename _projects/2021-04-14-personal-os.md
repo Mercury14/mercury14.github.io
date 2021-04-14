@@ -3,12 +3,10 @@ title: Projects
 subtitle: My current Personal Productivity System
 date: 2020-04-13 00:00:00
 description: Like any human being, I need to do better and improve. This is my collection of habits, ways of working and tools which (for now) help me deliver and stay sane
-featured_image: /images/home/P1000231.jpg
+featured_image: /images/home/desk.jpg
 ---
 
-![](/images/home/P1000228.jpg)
-
->Pursue one great decisive aim with force and determination” - *Carl Von Clausewitz*
+![](/images/home/clausewitz.jpg)
 
 ## My Personal Productivity System
 
