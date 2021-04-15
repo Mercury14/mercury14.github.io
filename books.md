@@ -2,7 +2,7 @@
 layout: default
 title: Books I am reading
 description: Review of books.
-featured_image: '/images/home/books.jpg'
+featured_image: /images/home/books.jpg
 ---
 <section class="hero">
 
